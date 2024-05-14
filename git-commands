@@ -1,0 +1,24 @@
+· sudo apt-get update
+· mkdir assignment1
+· ls
+· clear
+· ls
+· cd assignment1
+· touch Code.txt Log.txt Output.txt
+· ls
+· git init
+· git add Code.txt Output.txt
+· git status
+· git commit -m "Commit both Code.txt and Output.txt files"
+· git remote add Git-Assignment-1 https://github.com/visaltyagi/Git-Assignment-1.git
+· git init
+· ls
+· git init
+· git remote add Git-Assignment-1 https://github.com/visaltyagi/Git-Assignment-1.git
+· ls
+· git remote -v
+· cd assignment1
+· ls
+· git branch
+· cd assignment1
+· git push Git-Assignment-1 master
